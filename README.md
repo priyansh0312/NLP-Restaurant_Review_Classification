@@ -1,2 +1,2 @@
-# NLP-Restaurant_Review_Classification
+# Restaurant Review Classification |NLP
 NLP techniques to preprocess text data for restaurant review analysis
